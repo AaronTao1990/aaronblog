@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 我爱小仙女
 subtitle:
 description: 关注搜索、NOSQL、NEWSQL、大数据
 author: Aaron 陶金秋
@@ -75,3 +75,5 @@ deploy:
 
 
 
+## this is added by myself
+avatar : /images/avatar.jpg
